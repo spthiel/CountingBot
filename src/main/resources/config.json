@@ -1,0 +1,9 @@
+{
+  "TOKEN": "abc",
+  "DBHOST": "",
+  "DBUSER": "",
+  "DBPASS": "",
+  "DBPORT": "",
+  "DBDB": "",
+  "DEV": false
+}
